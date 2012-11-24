@@ -2,7 +2,7 @@
 
 test test test
 
-##Usage
+#Usage
 ======
 
 From shell:
