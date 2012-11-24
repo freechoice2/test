@@ -7,8 +7,8 @@ test test test
 
 From shell:
 
-> sh test.sh <test> -t <test2>
+> sh test.sh \<test\> -t \<test2\>
 >
-> info: sh sh.sh -h
+> info: sh test.sh -h
 
 * **test** : test
